@@ -1,6 +1,5 @@
 # Neeraj Kumar D L
 
-<div align="center">
-  <img src="" />
+<div style='width: 100%; background-color: red;'>
   name
 </div>
